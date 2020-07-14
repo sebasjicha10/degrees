@@ -7,6 +7,6 @@ This program finds the shortest path between any two actors by choosing a sequen
 Jennifer Lawrence is connected to Kevin Bacon by both starring in “X-Men: First Class,” and<br /> 
 Kevin Bacon is connected to Tom Hanks by both starring in “Apollo 13.”<br />
 
-Thi is framed as a search problem: the states are people. The actions are movies, which take us from one actor to another. The initial state and goal state are defined by the two people we’re trying to connect. 
+This is framed as a search problem: the states are people. The actions are movies, which take us from one actor to another. The initial state and goal state are defined by the two people we’re trying to connect. 
 
 By using breadth-first search, we can find the shortest path from one actor to another.
