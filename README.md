@@ -1,6 +1,7 @@
 # Degrees
 
-## Built with Python 
+## Built with Python - Graph search algorithms
+Program running: https://youtu.be/sDNTEbUArMM
 
 ## How to run (example)
 
